@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mekdeskebede
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Software Engineering at AAiT
-- 💞️ lets collaborate
+- 💞️ let's collaborate
 - 📫 reach can me on kebedemekdes289@gmail.com
 
 <!---
