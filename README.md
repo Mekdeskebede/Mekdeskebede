@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mekdeskebede
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Software Engineering at AAiT
+- 🌱 I’m currently learning Software Engineering at AAU
 - 💞️ let's collaborate
 - 📫 you can reach me 👉 kebedemekdes289@gmail.com
 
