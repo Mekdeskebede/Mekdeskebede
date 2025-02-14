@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m a Software Engineer
 - 💞️ let's collaborate
-- 📫 you can reach me 👉 kebedemekdes289@gmail.com
+- 📫 you can reach me at 👉 kebedemekdes289@gmail.com
 
 <!---
 Mekdeskebede/Mekdeskebede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
